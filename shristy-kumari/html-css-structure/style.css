@@ -1,0 +1,14 @@
+/* add styling */
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/* added styling for heading change color */
+.header{
+    color: red;
+}
+/* added styling for paragraph change paragraph */
+.paragraph{
+    color: gray;
+}
